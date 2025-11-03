@@ -1,0 +1,3246 @@
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+Checkpoints will be saved to Google Drive: /content/drive/My Drive/qgan_research/checkpoints
+
+====================
+Running Experiment: QCNN_WGAN-GP
+====================
+
+--- Run 1/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of QCNN_WGAN-GP...
+
+--- Run 2/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run1_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0035
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0035
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of QCNN_WGAN-GP...
+
+--- Run 3/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run2_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0087
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0087
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of QCNN_WGAN-GP...
+
+--- Run 4/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run3_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0038
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0038
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of QCNN_WGAN-GP...
+
+--- Run 5/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run4_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0051
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0051
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of QCNN_WGAN-GP...
+
+--- Run 6/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run5_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0021
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0021
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of QCNN_WGAN-GP...
+
+--- Run 7/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run6_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0018
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0018
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of QCNN_WGAN-GP...
+
+--- Run 8/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run7_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0049
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.27s. Best WS Dist: 0.0049
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of QCNN_WGAN-GP...
+
+--- Run 9/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run8_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of QCNN_WGAN-GP...
+
+--- Run 10/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run9_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0033
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0033
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of QCNN_WGAN-GP...
+
+--- Run 11/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run10_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0041
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 13.24s. Best WS Dist: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of QCNN_WGAN-GP...
+
+--- Run 12/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run11_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0043
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.37s. Best WS Dist: 0.0043
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of QCNN_WGAN-GP...
+
+--- Run 13/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run12_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0044
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0044
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of QCNN_WGAN-GP...
+
+--- Run 14/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run13_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0034
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.27s. Best WS Dist: 0.0034
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of QCNN_WGAN-GP...
+
+--- Run 15/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run14_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0022
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.12s. Best WS Dist: 0.0022
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of QCNN_WGAN-GP...
+
+--- Run 16/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run15_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.16s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of QCNN_WGAN-GP...
+
+--- Run 17/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run16_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0079
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0079
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of QCNN_WGAN-GP...
+
+--- Run 18/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run17_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of QCNN_WGAN-GP...
+
+--- Run 19/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run18_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0054
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0054
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of QCNN_WGAN-GP...
+
+--- Run 20/20 for QCNN_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run19_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0036
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.54s. Best WS Dist: 0.0036
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of QCNN_WGAN-GP...
+
+====================
+Running Experiment: EffSU2_WGAN-GP_R6
+====================
+
+--- Run 1/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of EffSU2_WGAN-GP_R6...
+
+--- Run 2/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run1_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.20s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of EffSU2_WGAN-GP_R6...
+
+--- Run 3/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run2_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0033
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.03s. Best WS Dist: 0.0033
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of EffSU2_WGAN-GP_R6...
+
+--- Run 4/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run3_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0038
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0038
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of EffSU2_WGAN-GP_R6...
+
+--- Run 5/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run4_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0026
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0026
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of EffSU2_WGAN-GP_R6...
+
+--- Run 6/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run5_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of EffSU2_WGAN-GP_R6...
+
+--- Run 7/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run6_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0028
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.17s. Best WS Dist: 0.0028
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of EffSU2_WGAN-GP_R6...
+
+--- Run 8/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run7_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0049
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0049
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of EffSU2_WGAN-GP_R6...
+
+--- Run 9/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run8_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0033
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0033
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of EffSU2_WGAN-GP_R6...
+
+--- Run 10/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run9_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0026
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0026
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of EffSU2_WGAN-GP_R6...
+
+--- Run 11/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run10_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0049
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0049
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of EffSU2_WGAN-GP_R6...
+
+--- Run 12/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run11_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of EffSU2_WGAN-GP_R6...
+
+--- Run 13/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run12_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of EffSU2_WGAN-GP_R6...
+
+--- Run 14/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run13_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0054
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0054
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of EffSU2_WGAN-GP_R6...
+
+--- Run 15/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run14_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of EffSU2_WGAN-GP_R6...
+
+--- Run 16/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run15_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of EffSU2_WGAN-GP_R6...
+
+--- Run 17/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run16_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0026
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0026
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of EffSU2_WGAN-GP_R6...
+
+--- Run 18/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run17_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0054
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0054
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of EffSU2_WGAN-GP_R6...
+
+--- Run 19/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run18_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0025
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.18s. Best WS Dist: 0.0025
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of EffSU2_WGAN-GP_R6...
+
+--- Run 20/20 for EffSU2_WGAN-GP_R6 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run19_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R6_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of EffSU2_WGAN-GP_R6...
+
+====================
+Running Experiment: EffSU2_WGAN-GP_R4
+====================
+
+--- Run 1/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0038
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0038
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of EffSU2_WGAN-GP_R4...
+
+--- Run 2/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run1_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0054
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0054
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of EffSU2_WGAN-GP_R4...
+
+--- Run 3/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run2_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0036
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0036
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of EffSU2_WGAN-GP_R4...
+
+--- Run 4/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run3_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0025
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0025
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of EffSU2_WGAN-GP_R4...
+
+--- Run 5/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run4_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0055
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0055
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of EffSU2_WGAN-GP_R4...
+
+--- Run 6/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run5_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0023
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0023
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of EffSU2_WGAN-GP_R4...
+
+--- Run 7/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run6_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.03s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of EffSU2_WGAN-GP_R4...
+
+--- Run 8/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run7_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0032
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.03s. Best WS Dist: 0.0032
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of EffSU2_WGAN-GP_R4...
+
+--- Run 9/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run8_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of EffSU2_WGAN-GP_R4...
+
+--- Run 10/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run9_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0057
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.18s. Best WS Dist: 0.0057
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of EffSU2_WGAN-GP_R4...
+
+--- Run 11/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run10_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0040
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0040
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of EffSU2_WGAN-GP_R4...
+
+--- Run 12/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run11_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0021
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.03s. Best WS Dist: 0.0021
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of EffSU2_WGAN-GP_R4...
+
+--- Run 13/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run12_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0049
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.03s. Best WS Dist: 0.0049
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of EffSU2_WGAN-GP_R4...
+
+--- Run 14/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run13_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0106
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0106
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of EffSU2_WGAN-GP_R4...
+
+--- Run 15/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run14_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0031
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.22s. Best WS Dist: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of EffSU2_WGAN-GP_R4...
+
+--- Run 16/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run15_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0051
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0051
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of EffSU2_WGAN-GP_R4...
+
+--- Run 17/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run16_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of EffSU2_WGAN-GP_R4...
+
+--- Run 18/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run17_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0046
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0046
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of EffSU2_WGAN-GP_R4...
+
+--- Run 19/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run18_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of EffSU2_WGAN-GP_R4...
+
+--- Run 20/20 for EffSU2_WGAN-GP_R4 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run19_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R4_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of EffSU2_WGAN-GP_R4...
+
+====================
+Running Experiment: EffSU2_WGAN-GP_R8
+====================
+
+--- Run 1/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0035
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0035
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of EffSU2_WGAN-GP_R8...
+
+--- Run 2/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run1_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0031
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.26s. Best WS Dist: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of EffSU2_WGAN-GP_R8...
+
+--- Run 3/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run2_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of EffSU2_WGAN-GP_R8...
+
+--- Run 4/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run3_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0048
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0048
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of EffSU2_WGAN-GP_R8...
+
+--- Run 5/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run4_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of EffSU2_WGAN-GP_R8...
+
+--- Run 6/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run5_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.10s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of EffSU2_WGAN-GP_R8...
+
+--- Run 7/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run6_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of EffSU2_WGAN-GP_R8...
+
+--- Run 8/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run7_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0037
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.12s. Best WS Dist: 0.0037
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of EffSU2_WGAN-GP_R8...
+
+--- Run 9/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run8_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of EffSU2_WGAN-GP_R8...
+
+--- Run 10/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run9_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0029
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0029
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of EffSU2_WGAN-GP_R8...
+
+--- Run 11/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run10_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0033
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0033
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of EffSU2_WGAN-GP_R8...
+
+--- Run 12/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run11_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.17s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of EffSU2_WGAN-GP_R8...
+
+--- Run 13/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run12_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of EffSU2_WGAN-GP_R8...
+
+--- Run 14/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run13_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0039
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.10s. Best WS Dist: 0.0039
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of EffSU2_WGAN-GP_R8...
+
+--- Run 15/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run14_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0050
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.40s. Best WS Dist: 0.0050
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of EffSU2_WGAN-GP_R8...
+
+--- Run 16/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run15_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of EffSU2_WGAN-GP_R8...
+
+--- Run 17/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run16_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0034
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0034
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of EffSU2_WGAN-GP_R8...
+
+--- Run 18/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run17_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of EffSU2_WGAN-GP_R8...
+
+--- Run 19/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run18_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of EffSU2_WGAN-GP_R8...
+
+--- Run 20/20 for EffSU2_WGAN-GP_R8 ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run19_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0024
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of EffSU2_WGAN-GP_R8...
+
+====================
+Running Experiment: QCNN_Q-MMD-GAN
+====================
+
+--- Run 1/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0059
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 14.95s.
+MMD-GAN training finished (Epochs 500-499) in 15.00s. Best MMD Loss: 0.0059
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of QCNN_Q-MMD-GAN...
+
+--- Run 2/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run1_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0046
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.91s.
+MMD-GAN training finished (Epochs 500-499) in 16.02s. Best MMD Loss: 0.0046
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of QCNN_Q-MMD-GAN...
+
+--- Run 3/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run2_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0022
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.36s.
+MMD-GAN training finished (Epochs 500-499) in 16.40s. Best MMD Loss: 0.0022
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of QCNN_Q-MMD-GAN...
+
+--- Run 4/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run3_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0081
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.61s.
+MMD-GAN training finished (Epochs 500-499) in 15.67s. Best MMD Loss: 0.0081
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of QCNN_Q-MMD-GAN...
+
+--- Run 5/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run4_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0022
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.88s.
+MMD-GAN training finished (Epochs 500-499) in 15.92s. Best MMD Loss: 0.0022
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of QCNN_Q-MMD-GAN...
+
+--- Run 6/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run5_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0182
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.68s.
+MMD-GAN training finished (Epochs 500-499) in 16.73s. Best MMD Loss: 0.0182
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of QCNN_Q-MMD-GAN...
+
+--- Run 7/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run6_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0018
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.54s.
+MMD-GAN training finished (Epochs 500-499) in 15.59s. Best MMD Loss: 0.0018
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of QCNN_Q-MMD-GAN...
+
+--- Run 8/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run7_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.04s.
+MMD-GAN training finished (Epochs 500-499) in 16.09s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of QCNN_Q-MMD-GAN...
+
+--- Run 9/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run8_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0036
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.17s.
+MMD-GAN training finished (Epochs 500-499) in 16.21s. Best MMD Loss: 0.0036
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of QCNN_Q-MMD-GAN...
+
+--- Run 10/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run9_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.88s.
+MMD-GAN training finished (Epochs 500-499) in 16.12s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of QCNN_Q-MMD-GAN...
+
+--- Run 11/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run10_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0024
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.94s.
+MMD-GAN training finished (Epochs 500-499) in 15.98s. Best MMD Loss: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of QCNN_Q-MMD-GAN...
+
+--- Run 12/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run11_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0094
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.36s.
+MMD-GAN training finished (Epochs 500-499) in 16.43s. Best MMD Loss: 0.0094
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of QCNN_Q-MMD-GAN...
+
+--- Run 13/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run12_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0063
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.78s.
+MMD-GAN training finished (Epochs 500-499) in 15.98s. Best MMD Loss: 0.0063
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of QCNN_Q-MMD-GAN...
+
+--- Run 14/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run13_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0015
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.65s.
+MMD-GAN training finished (Epochs 500-499) in 15.69s. Best MMD Loss: 0.0015
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of QCNN_Q-MMD-GAN...
+
+--- Run 15/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run14_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0028
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.38s.
+MMD-GAN training finished (Epochs 500-499) in 16.42s. Best MMD Loss: 0.0028
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of QCNN_Q-MMD-GAN...
+
+--- Run 16/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run15_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0020
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.98s.
+MMD-GAN training finished (Epochs 500-499) in 16.01s. Best MMD Loss: 0.0020
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of QCNN_Q-MMD-GAN...
+
+--- Run 17/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run16_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0095
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.26s.
+MMD-GAN training finished (Epochs 500-499) in 16.29s. Best MMD Loss: 0.0095
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of QCNN_Q-MMD-GAN...
+
+--- Run 18/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run17_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0025
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.74s.
+MMD-GAN training finished (Epochs 500-499) in 16.89s. Best MMD Loss: 0.0025
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of QCNN_Q-MMD-GAN...
+
+--- Run 19/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run18_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0049
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.77s.
+MMD-GAN training finished (Epochs 500-499) in 15.82s. Best MMD Loss: 0.0049
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of QCNN_Q-MMD-GAN...
+
+--- Run 20/20 for QCNN_Q-MMD-GAN ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run19_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0056
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.38s.
+MMD-GAN training finished (Epochs 500-499) in 16.42s. Best MMD Loss: 0.0056
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of QCNN_Q-MMD-GAN...
+
+====================
+Running Experiment: EffSU2_Q-MMD-GAN_R6
+====================
+
+--- Run 1/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0016
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.23s.
+MMD-GAN training finished (Epochs 500-499) in 16.26s. Best MMD Loss: 0.0016
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 2/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run1_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.44s.
+MMD-GAN training finished (Epochs 500-499) in 16.48s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 3/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run2_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0015
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.87s.
+MMD-GAN training finished (Epochs 500-499) in 17.13s. Best MMD Loss: 0.0015
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 4/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run3_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0034
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.63s.
+MMD-GAN training finished (Epochs 500-499) in 16.68s. Best MMD Loss: 0.0034
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 5/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run4_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0024
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.66s.
+MMD-GAN training finished (Epochs 500-499) in 15.70s. Best MMD Loss: 0.0024
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 6/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run5_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0018
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.31s.
+MMD-GAN training finished (Epochs 500-499) in 16.59s. Best MMD Loss: 0.0018
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 7/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run6_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.76s.
+MMD-GAN training finished (Epochs 500-499) in 16.80s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 8/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run7_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0020
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.94s.
+MMD-GAN training finished (Epochs 500-499) in 17.98s. Best MMD Loss: 0.0020
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 9/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run8_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0017
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.58s.
+MMD-GAN training finished (Epochs 500-499) in 16.61s. Best MMD Loss: 0.0017
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 10/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run9_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0020
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.23s.
+MMD-GAN training finished (Epochs 500-499) in 16.30s. Best MMD Loss: 0.0020
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 11/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run10_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0036
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.31s.
+MMD-GAN training finished (Epochs 500-499) in 16.36s. Best MMD Loss: 0.0036
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 12/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run11_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0013
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.25s.
+MMD-GAN training finished (Epochs 500-499) in 16.28s. Best MMD Loss: 0.0013
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 13/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run12_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0020
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.31s.
+MMD-GAN training finished (Epochs 500-499) in 16.35s. Best MMD Loss: 0.0020
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 14/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run13_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0019
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.41s.
+MMD-GAN training finished (Epochs 500-499) in 16.45s. Best MMD Loss: 0.0019
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 15/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run14_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0021
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.76s.
+MMD-GAN training finished (Epochs 500-499) in 16.84s. Best MMD Loss: 0.0021
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 16/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run15_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0036
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.26s.
+MMD-GAN training finished (Epochs 500-499) in 16.30s. Best MMD Loss: 0.0036
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 17/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run16_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0014
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.19s.
+MMD-GAN training finished (Epochs 500-499) in 16.23s. Best MMD Loss: 0.0014
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 18/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run17_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0017
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.55s.
+MMD-GAN training finished (Epochs 500-499) in 16.59s. Best MMD Loss: 0.0017
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 19/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run18_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0020
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.46s.
+MMD-GAN training finished (Epochs 500-499) in 17.50s. Best MMD Loss: 0.0020
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of EffSU2_Q-MMD-GAN_R6...
+
+--- Run 20/20 for EffSU2_Q-MMD-GAN_R6 ---
+Decomposing feature map for quantum kernel...
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run19_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0034
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 15.77s.
+MMD-GAN training finished (Epochs 500-499) in 15.82s. Best MMD Loss: 0.0034
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R6_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of EffSU2_Q-MMD-GAN_R6...
+
+====================
+Running Experiment: Classical_MMD-GAN
+====================
+
+--- Run 1/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0011
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.05s. Best MMD Loss: 0.0011
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of Classical_MMD-GAN...
+
+--- Run 2/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run1_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0004
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.18s. Best MMD Loss: 0.0004
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of Classical_MMD-GAN...
+
+--- Run 3/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run2_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0002
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.06s. Best MMD Loss: 0.0002
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of Classical_MMD-GAN...
+
+--- Run 4/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run3_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0008
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.07s. Best MMD Loss: 0.0008
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of Classical_MMD-GAN...
+
+--- Run 5/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run4_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0028
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.19s. Best MMD Loss: 0.0028
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of Classical_MMD-GAN...
+
+--- Run 6/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run5_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0037
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.28s. Best MMD Loss: 0.0037
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of Classical_MMD-GAN...
+
+--- Run 7/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run6_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0015
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0015
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of Classical_MMD-GAN...
+
+--- Run 8/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run7_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0003
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.03s. Best MMD Loss: 0.0003
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of Classical_MMD-GAN...
+
+--- Run 9/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run8_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0004
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0004
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of Classical_MMD-GAN...
+
+--- Run 10/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run9_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0006
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.06s. Best MMD Loss: 0.0006
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of Classical_MMD-GAN...
+
+--- Run 11/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run10_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0004
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.05s. Best MMD Loss: 0.0004
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of Classical_MMD-GAN...
+
+--- Run 12/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run11_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0011
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0011
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of Classical_MMD-GAN...
+
+--- Run 13/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run12_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0012
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.18s. Best MMD Loss: 0.0012
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of Classical_MMD-GAN...
+
+--- Run 14/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run13_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0005
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.19s. Best MMD Loss: 0.0005
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of Classical_MMD-GAN...
+
+--- Run 15/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run14_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0011
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0011
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of Classical_MMD-GAN...
+
+--- Run 16/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run15_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0006
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0006
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of Classical_MMD-GAN...
+
+--- Run 17/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run16_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0006
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0006
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of Classical_MMD-GAN...
+
+--- Run 18/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run17_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0003
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0003
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of Classical_MMD-GAN...
+
+--- Run 19/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run18_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0009
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0009
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of Classical_MMD-GAN...
+
+--- Run 20/20 for Classical_MMD-GAN ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run19_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0007
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 0.00s.
+MMD-GAN training finished (Epochs 500-499) in 0.04s. Best MMD Loss: 0.0007
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of Classical_MMD-GAN...
+
+====================
+Running Experiment: Classical_WGAN-GP
+====================
+
+--- Run 1/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0077
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0077
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run0_best.pt for final output.
+Calculating final metrics for resumed run 0 of Classical_WGAN-GP...
+
+--- Run 2/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run1_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0072
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0072
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run1_best.pt for final output.
+Calculating final metrics for resumed run 1 of Classical_WGAN-GP...
+
+--- Run 3/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run2_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0084
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0084
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run2_best.pt for final output.
+Calculating final metrics for resumed run 2 of Classical_WGAN-GP...
+
+--- Run 4/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run3_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0075
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run3_best.pt for final output.
+Calculating final metrics for resumed run 3 of Classical_WGAN-GP...
+
+--- Run 5/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run4_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0080
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0080
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run4_best.pt for final output.
+Calculating final metrics for resumed run 4 of Classical_WGAN-GP...
+
+--- Run 6/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run5_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0081
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0081
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run5_best.pt for final output.
+Calculating final metrics for resumed run 5 of Classical_WGAN-GP...
+
+--- Run 7/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run6_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0078
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.41s. Best WS Dist: 0.0078
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run6_best.pt for final output.
+Calculating final metrics for resumed run 6 of Classical_WGAN-GP...
+
+--- Run 8/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run7_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0067
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0067
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run7_best.pt for final output.
+Calculating final metrics for resumed run 7 of Classical_WGAN-GP...
+
+--- Run 9/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run8_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0079
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0079
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run8_best.pt for final output.
+Calculating final metrics for resumed run 8 of Classical_WGAN-GP...
+
+--- Run 10/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run9_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0085
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0085
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run9_best.pt for final output.
+Calculating final metrics for resumed run 9 of Classical_WGAN-GP...
+
+--- Run 11/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run10_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0077
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0077
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run10_best.pt for final output.
+Calculating final metrics for resumed run 10 of Classical_WGAN-GP...
+
+--- Run 12/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run11_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0086
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.39s. Best WS Dist: 0.0086
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run11_best.pt for final output.
+Calculating final metrics for resumed run 11 of Classical_WGAN-GP...
+
+--- Run 13/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run12_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0082
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.33s. Best WS Dist: 0.0082
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run12_best.pt for final output.
+Calculating final metrics for resumed run 12 of Classical_WGAN-GP...
+
+--- Run 14/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run13_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0069
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0069
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run13_best.pt for final output.
+Calculating final metrics for resumed run 13 of Classical_WGAN-GP...
+
+--- Run 15/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run14_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0085
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0085
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run14_best.pt for final output.
+Calculating final metrics for resumed run 14 of Classical_WGAN-GP...
+
+--- Run 16/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run15_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0078
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0078
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run15_best.pt for final output.
+Calculating final metrics for resumed run 15 of Classical_WGAN-GP...
+
+--- Run 17/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run16_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0056
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.07s. Best WS Dist: 0.0056
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run16_best.pt for final output.
+Calculating final metrics for resumed run 16 of Classical_WGAN-GP...
+
+--- Run 18/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run17_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0081
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0081
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run17_best.pt for final output.
+Calculating final metrics for resumed run 17 of Classical_WGAN-GP...
+
+--- Run 19/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run18_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0079
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.46s. Best WS Dist: 0.0079
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run18_best.pt for final output.
+Calculating final metrics for resumed run 18 of Classical_WGAN-GP...
+
+--- Run 20/20 for Classical_WGAN-GP ---
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run19_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0072
+Successfully resumed from epoch 500
+Classical WGAN-GP training finished (Epochs 500-499) in 0.22s. Best WS Dist: 0.0072
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_run19_best.pt for final output.
+Calculating final metrics for resumed run 19 of Classical_WGAN-GP...
+
+
+====================
+FINAL METRICS SUMMARY (Mean ± Std Dev over 20 runs)
+====================
+                    rel_entropy             ws_dist                 ks_pval  \
+                           mean       std      mean       std          mean   
+model                                                                         
+Classical_MMD-GAN      0.107840  0.021117  0.002911  0.000570  1.459491e-01   
+Classical_WGAN-GP      0.439609  0.051062  0.007868  0.000719  1.909428e-07   
+EffSU2_Q-MMD-GAN_R6    0.567793  0.158387  0.004275  0.001059  2.088831e-01   
+EffSU2_WGAN-GP_R4      1.151771  0.254970  0.003592  0.001718  3.658151e-01   
+EffSU2_WGAN-GP_R6      1.004444  0.160810  0.002989  0.000861  3.009886e-01   
+EffSU2_WGAN-GP_R8      0.993235  0.145643  0.002711  0.000407  4.749263e-01   
+QCNN_Q-MMD-GAN         0.466795  0.100792  0.004596  0.001042  1.018196e-01   
+QCNN_WGAN-GP           0.768527  0.179604  0.003936  0.001579  2.946390e-01   
+
+                                   
+                              std  
+model                              
+Classical_MMD-GAN    9.263346e-02  
+Classical_WGAN-GP    2.043667e-07  
+EffSU2_Q-MMD-GAN_R6  1.484392e-01  
+EffSU2_WGAN-GP_R4    2.196709e-01  
+EffSU2_WGAN-GP_R6    1.680217e-01  
+EffSU2_WGAN-GP_R8    1.836318e-01  
+QCNN_Q-MMD-GAN       9.463039e-02  
+QCNN_WGAN-GP         2.464253e-01  
+Best model based on mean Wasserstein distance: EffSU2_WGAN-GP_R8
+
+
+====================
+Paired Statistical Tests (Wilcoxon signed-rank) & Effect Sizes
+====================
+Comparing final Wasserstein distance of models against the best model.
+
+EffSU2_WGAN-GP_R8 vs. QCNN_WGAN-GP:
+  p-value = 0.0017 | Cohen's d = -1.0626
+  -> Best model is statistically significantly better.
+
+EffSU2_WGAN-GP_R8 vs. EffSU2_WGAN-GP_R6:
+  p-value = 0.1536 | Cohen's d = -0.4126
+  -> No significant statistical difference.
+
+EffSU2_WGAN-GP_R8 vs. EffSU2_WGAN-GP_R4:
+  p-value = 0.0192 | Cohen's d = -0.7054
+  -> Best model is statistically significantly better.
+
+EffSU2_WGAN-GP_R8 vs. QCNN_Q-MMD-GAN:
+  p-value = 0.0000 | Cohen's d = -2.3826
+  -> Best model is statistically significantly better.
+
+EffSU2_WGAN-GP_R8 vs. EffSU2_Q-MMD-GAN_R6:
+  p-value = 0.0000 | Cohen's d = -1.9497
+  -> Best model is statistically significantly better.
+
+EffSU2_WGAN-GP_R8 vs. Classical_MMD-GAN:
+  p-value = 0.1231 | Cohen's d = -0.4038
+  -> No significant statistical difference.
+
+EffSU2_WGAN-GP_R8 vs. Classical_WGAN-GP:
+  p-value = 0.0000 | Cohen's d = -8.8246
+  -> Best model is statistically significantly better.
+
+Plotting learning curves...
+Skipping learning curve plots: No history data was collected (all runs might have been resumed or failed).
+
+Analyzing best run of the best model...
+Best overall model: EffSU2_WGAN-GP_R8
+Analyzing best run (Run 19) of this model.
+Re-running best configuration for final plots...
+
+
+
+
+====================
+Fidelity vs Noise Sweep
+====================
+Correctly selected best quantum model for sweep: EffSU2_WGAN-GP_R8
+   → WS Dist: 0.0027110503
+
+Running noise sweep for overall best quantum model: EffSU2_WGAN-GP_R8
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0000
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0000_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0030
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.33s. Best WS Dist: 0.0030
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0000_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.0 from loaded final_dist.
+
+Running p_error = 0.0010
+No valid checkpoint found. Starting training from scratch.
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch50.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch100.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch150.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch200.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch250.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch300.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch350.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch400.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch450.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_epoch500.pt
+WGAN-GP training finished (Epochs 0-499) in 3474.59s. Best WS Dist: 0.0019
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0010_run0_best.pt for final output.
+
+Running p_error = 0.0050
+No valid checkpoint found. Starting training from scratch.
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch50.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch100.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch150.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch200.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch250.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch300.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch350.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch400.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch450.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_epoch500.pt
+WGAN-GP training finished (Epochs 0-499) in 3456.85s. Best WS Dist: 0.0019
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0050_run0_best.pt for final output.
+
+Running p_error = 0.0100
+No valid checkpoint found. Starting training from scratch.
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch50.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch100.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch150.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch200.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch250.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch300.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch350.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch400.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch450.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_epoch500.pt
+WGAN-GP training finished (Epochs 0-499) in 3447.29s. Best WS Dist: 0.0022
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0100_run0_best.pt for final output.
+
+Running p_error = 0.0200
+No valid checkpoint found. Starting training from scratch.
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch50.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch100.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch150.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch200.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch250.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch300.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch350.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch400.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch450.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+WGAN-GP training finished (Epochs 0-499) in 3447.86s. Best WS Dist: 0.0037
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+
+Running p_error = 0.0500
+No valid checkpoint found. Starting training from scratch.
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch50.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch100.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch150.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch200.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch250.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch300.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch350.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch400.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch450.pt
+Checkpoint saved to /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_epoch500.pt
+WGAN-GP training finished (Epochs 0-499) in 3475.65s. Best WS Dist: 0.0063
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0500_run0_best.pt for final output.
+
+Noise Sweep Results:
+   p_error   ws_dist  rel_entropy   ks_pval
+0    0.000  0.002422     1.145493  0.418038
+1    0.001  0.002484     1.068981  0.418038
+2    0.005  0.002432     1.024267  0.418038
+3    0.010  0.002607     0.912594  0.093486
+4    0.020  0.004726     0.745427  0.000041
+5    0.050  0.007857     0.530303  0.000001
+
+
+--- All visualizations generated ---
+
+
+
+
+
+
+
+
+
+
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+Checkpoints will be saved to Google Drive: /content/drive/My Drive/qgan_research/checkpoints
+
+=== Running QCNN_WGAN-GP at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 5.60s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.48s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.13s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.27s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.17s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.29s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.27s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.16s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.28s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: QCNN_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0027
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0027
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+=== Running EffSU2_WGAN-GP_R8 at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.51s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.17s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.20s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.19s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.23s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.25s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.25s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.25s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.24s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: EffSU2_WGAN-GP_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0047
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0047
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_WGAN-GP_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+=== Running QCNN_Q-MMD-GAN at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.95s.
+MMD-GAN training finished (Epochs 500-499) in 18.65s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.63s.
+MMD-GAN training finished (Epochs 500-499) in 17.69s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.58s.
+MMD-GAN training finished (Epochs 500-499) in 17.77s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.21s.
+MMD-GAN training finished (Epochs 500-499) in 17.26s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.71s.
+MMD-GAN training finished (Epochs 500-499) in 16.92s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.86s.
+MMD-GAN training finished (Epochs 500-499) in 18.29s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.83s.
+MMD-GAN training finished (Epochs 500-499) in 17.10s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.44s.
+MMD-GAN training finished (Epochs 500-499) in 17.49s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.80s.
+MMD-GAN training finished (Epochs 500-499) in 17.84s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.81s.
+MMD-GAN training finished (Epochs 500-499) in 18.08s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.26s.
+MMD-GAN training finished (Epochs 500-499) in 16.34s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.66s.
+MMD-GAN training finished (Epochs 500-499) in 17.72s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.29s.
+MMD-GAN training finished (Epochs 500-499) in 17.52s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 22.38s.
+MMD-GAN training finished (Epochs 500-499) in 22.43s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.01s.
+MMD-GAN training finished (Epochs 500-499) in 17.30s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.81s.
+MMD-GAN training finished (Epochs 500-499) in 16.86s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.54s.
+MMD-GAN training finished (Epochs 500-499) in 16.59s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.22s.
+MMD-GAN training finished (Epochs 500-499) in 17.27s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.27s.
+MMD-GAN training finished (Epochs 500-499) in 17.68s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: QCNN_Q-MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0075
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.31s.
+MMD-GAN training finished (Epochs 500-499) in 16.58s. Best MMD Loss: 0.0075
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/QCNN_Q-MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+=== Running EffSU2_Q-MMD-GAN_R8 at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.03s.
+MMD-GAN training finished (Epochs 500-499) in 17.61s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.73s.
+MMD-GAN training finished (Epochs 500-499) in 16.79s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.24s.
+MMD-GAN training finished (Epochs 500-499) in 17.29s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.50s.
+MMD-GAN training finished (Epochs 500-499) in 16.86s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.83s.
+MMD-GAN training finished (Epochs 500-499) in 17.10s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.59s.
+MMD-GAN training finished (Epochs 500-499) in 16.64s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.00s.
+MMD-GAN training finished (Epochs 500-499) in 17.05s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.57s.
+MMD-GAN training finished (Epochs 500-499) in 16.63s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.81s.
+MMD-GAN training finished (Epochs 500-499) in 16.86s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.85s.
+MMD-GAN training finished (Epochs 500-499) in 16.90s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.35s.
+MMD-GAN training finished (Epochs 500-499) in 17.40s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.19s.
+MMD-GAN training finished (Epochs 500-499) in 17.26s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.23s.
+MMD-GAN training finished (Epochs 500-499) in 17.29s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.37s.
+MMD-GAN training finished (Epochs 500-499) in 17.42s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.89s.
+MMD-GAN training finished (Epochs 500-499) in 16.94s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 18.11s.
+MMD-GAN training finished (Epochs 500-499) in 18.54s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.46s.
+MMD-GAN training finished (Epochs 500-499) in 17.51s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 18.22s.
+MMD-GAN training finished (Epochs 500-499) in 18.51s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 18.33s.
+MMD-GAN training finished (Epochs 500-499) in 18.39s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: EffSU2_Q-MMD-GAN_R8 ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0041
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.13s.
+MMD-GAN training finished (Epochs 500-499) in 17.19s. Best MMD Loss: 0.0041
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/EffSU2_Q-MMD-GAN_R8_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+=== Running Classical_WGAN-GP at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.60s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.29s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.28s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.23s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.14s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.04s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.11s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.06s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.13s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.25s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.05s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.17s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: Classical_WGAN-GP ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best WS Dist approximation: 0.0042
+Successfully resumed from epoch 500
+WGAN-GP training finished (Epochs 500-499) in 0.31s. Best WS Dist: 0.0042
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_WGAN-GP_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+=== Running Classical_MMD-GAN at p_error = 0.02 for 20 runs ===
+
+>>> Run 1/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.56s.
+MMD-GAN training finished (Epochs 500-499) in 18.29s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 2/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.79s.
+MMD-GAN training finished (Epochs 500-499) in 17.09s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 3/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.92s.
+MMD-GAN training finished (Epochs 500-499) in 16.97s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 4/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.85s.
+MMD-GAN training finished (Epochs 500-499) in 16.91s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 5/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.40s.
+MMD-GAN training finished (Epochs 500-499) in 17.68s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 6/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.49s.
+MMD-GAN training finished (Epochs 500-499) in 17.84s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 7/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.07s.
+MMD-GAN training finished (Epochs 500-499) in 17.35s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 8/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.01s.
+MMD-GAN training finished (Epochs 500-499) in 17.06s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 9/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.49s.
+MMD-GAN training finished (Epochs 500-499) in 17.55s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 10/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.37s.
+MMD-GAN training finished (Epochs 500-499) in 17.45s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 11/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.92s.
+MMD-GAN training finished (Epochs 500-499) in 16.97s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 12/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.07s.
+MMD-GAN training finished (Epochs 500-499) in 17.11s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 13/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 24.20s.
+MMD-GAN training finished (Epochs 500-499) in 24.50s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 14/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.79s.
+MMD-GAN training finished (Epochs 500-499) in 16.84s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 15/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.80s.
+MMD-GAN training finished (Epochs 500-499) in 17.02s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 16/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 17.12s.
+MMD-GAN training finished (Epochs 500-499) in 17.17s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 17/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.30s.
+MMD-GAN training finished (Epochs 500-499) in 16.40s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 18/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.71s.
+MMD-GAN training finished (Epochs 500-499) in 16.94s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 19/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.76s.
+MMD-GAN training finished (Epochs 500-499) in 16.81s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+>>> Run 20/20
+
+--- Starting Noise Sweep: Classical_MMD-GAN ---
+
+Running p_error = 0.0200
+Attempting to resume training from checkpoint: /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_epoch500.pt
+Loaded previous best MMD Loss approximation: 0.0031
+Successfully resumed from epoch 500
+Pre-calculating Kernel Matrix (if needed)...
+Kernel matrix calculated in 16.70s.
+MMD-GAN training finished (Epochs 500-499) in 16.87s. Best MMD Loss: 0.0031
+Loading best model state from /content/drive/My Drive/qgan_research/checkpoints/Classical_MMD-GAN_sweep_p0.0200_run0_best.pt for final output.
+Calculating metrics directly for p_error=0.02 from loaded final_dist.
+
+===== Table 2 Results (p_error = 0.02, 5 runs averaged) =====
+              Model WS Distance (Mean ± Std) Rel. Entropy (Mean ± Std) KS p-value (Mean ± Std)
+       QCNN_WGAN-GP          0.0030 ± 0.0003           0.5146 ± 0.0287         0.1144 ± 0.0678
+  EffSU2_WGAN-GP_R8          0.0046 ± 0.0004           0.7176 ± 0.0381         0.0053 ± 0.0150
+     QCNN_Q-MMD-GAN          0.0047 ± 0.0003           0.5076 ± 0.0282         0.2514 ± 0.1038
+EffSU2_Q-MMD-GAN_R8          0.0041 ± 0.0003           0.2451 ± 0.0170         0.0151 ± 0.0212
+  Classical_WGAN-GP          0.0038 ± 0.0003           0.6887 ± 0.0365         0.0113 ± 0.0206
+  Classical_MMD-GAN          0.0046 ± 0.0004           0.3069 ± 0.0232         0.2707 ± 0.1261
